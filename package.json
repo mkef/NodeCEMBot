@@ -1,0 +1,28 @@
+{
+  "name": "cembot",
+  "version": "0.0.1",
+  "description": "Node CEM Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eranga Fonseka",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkef/NodeCEMBot.git"
+  },
+  "keywords": [
+    "Bot",
+    "CEM"
+  ],
+  "bugs": {
+    "url": "https://github.com/mkef/NodeCEMBot/issues"
+  },
+  "homepage": "https://github.com/mkef/NodeCEMBot#readme"
+}
